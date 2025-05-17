@@ -1,6 +1,5 @@
 # FileShare Hub
 
-
 A secure web application for storing, organizing, and sharing files built with Streamlit and Supabase.
 
 ## 📋 Table of Contents
@@ -190,8 +189,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 If you have any questions or feedback, please contact:
-mohammedaazam757@outlook.com
+saniyabanubvr@gmail.com
 
 ---
 
-Made with ❤️ by Mohammed Aazam
+Made with ❤️ by Saniya Banu
